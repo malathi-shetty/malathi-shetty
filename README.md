@@ -48,7 +48,7 @@ I enjoy understanding systems end-to-end and automating processes using modern D
   https://github.com/malathi-shetty/python-scripts  
 
 -  DevOps Notes & Commands  
-  [https://github.com/malathi-shetty/devops-notes](https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md)  
+  [https://github.com/malathi-shetty/devops-notes](https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md)
 
 ---
 
