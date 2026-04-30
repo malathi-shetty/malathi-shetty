@@ -39,10 +39,10 @@ I enjoy understanding systems end-to-end and automating processes using modern D
 
 ##  Featured Projects
 -  90 Days of DevOps  
-  https://github.com/malathi-shetty/90-days-of-devops  
+  [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 
 -  Shell Scripting Practice  
-  https://github.com/malathi-shetty/shell-scripts  
+  [https://github.com/malathi-shetty/shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)  
 
 -  Python Automation Scripts  
   https://github.com/malathi-shetty/python-scripts  
