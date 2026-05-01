@@ -45,7 +45,7 @@ I enjoy understanding systems end-to-end and automating processes using modern D
   [https://github.com/malathi-shetty/shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)  
 
 -  Python Automation Scripts  
-  https://github.com/malathi-shetty/python-scripts  
+  [https://github.com/malathi-shetty/python-scripts  ](https://github.com/malathi-shetty/python-scripts/tree/main)
 
 -  DevOps Notes & Commands  
   [https://github.com/malathi-shetty/devops-notes](https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md)
@@ -59,7 +59,7 @@ To transition into a **DevOps Engineering role** by combining my strong QA backg
 
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/malathi-shetty-52931969/  
-- Email: shettymalathi012@gmail.com  
+- Email: shettymalathi012@gmail.com / shettymalathi113@gmail.com  
 - Hashnode: https://hashnode.com/@malathis  
 
 ---
