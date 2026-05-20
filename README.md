@@ -41,6 +41,9 @@ I enjoy understanding systems end-to-end and automating processes using modern D
 -  90 Days of DevOps  
   [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 
+- github-actions-kubernetes-masterclass
+  [github-actions-kubernetes-masterclass](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass.git)
+  
 -  Shell Scripting Practice  
   [https://github.com/malathi-shetty/shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)  
 
