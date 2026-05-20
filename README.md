@@ -38,20 +38,21 @@ I enjoy understanding systems end-to-end and automating processes using modern D
 ---
 
 ##  Featured Projects
--  90 Days of DevOps  
+
+- 90 Days of DevOps  
   [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 
-- github-actions-kubernetes-masterclass
+- GitHub Actions Kubernetes Masterclass  
   [github-actions-kubernetes-masterclass](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass.git)
-  
--  Shell Scripting Practice  
-  [https://github.com/malathi-shetty/shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)  
 
--  Python Automation Scripts  
-  [https://github.com/malathi-shetty/python-scripts  ](https://github.com/malathi-shetty/python-scripts/tree/main)
+- Shell Scripting Practice  
+  [shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)
 
--  DevOps Notes & Commands  
-  [https://github.com/malathi-shetty/devops-notes](https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md)
+- Python Automation Scripts  
+  [python-scripts](https://github.com/malathi-shetty/python-scripts/tree/main)
+
+- DevOps Notes & Commands  
+  [devops-notes](https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md)
 
 ---
 
