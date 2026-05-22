@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Malathi Shetty </h1>
-<img src="<img src="https://github.com/malathi-shetty/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg" alt="Docker CI/CD Status">" />
+<img src="https://github.com/malathi-shetty/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg" alt="Docker CI/CD Status">
 
 </div>
 
