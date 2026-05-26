@@ -18,6 +18,7 @@ I enjoy understanding systems end-to-end and automating processes using modern D
 ##  What I'm Currently Working On
 - [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 - [github-actions-practice](https://github.com/malathi-shetty/github-actions-practice.git)
+- [github-actions-capstone](https://github.com/malathi-shetty/github-actions-capstone.git)
 
 ---
 
