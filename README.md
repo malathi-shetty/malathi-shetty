@@ -48,6 +48,9 @@ I enjoy understanding systems end-to-end and automating processes using modern D
 - GitHub Actions Kubernetes Masterclass  
   [github-actions-kubernetes-masterclass](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass.git)
 
+- GitHub Actions Capstone
+  [github-actions-capstone](https://github.com/malathi-shetty/github-actions-capstone.git)
+
 - Shell Scripting Practice  
   [shell-scripts](https://github.com/malathi-shetty/shell-scripts-notes/tree/main)
 
