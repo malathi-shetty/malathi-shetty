@@ -18,8 +18,8 @@ I enjoy building scalable systems, automating workflows, and improving software 
 
 ## 🚀 Current Focus
 
-- 90 Days of DevOps Challenge  
-  👉 https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026  
+  👉  [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026) 
+ 
 
 - Hands-on DevOps projects using GitHub Actions, Docker & Kubernetes  
 - Strengthening AWS, Terraform & CI/CD pipelines  
