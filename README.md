@@ -2,6 +2,12 @@
 
 # Hi, I'm Malathi Shetty 👋
 
+### QA Engineer ➜ DevOps Engineer
+
+AWS • Docker • Kubernetes • GitHub Actions • Terraform
+
+🚀 Transitioning from QA to DevOps through hands-on projects, cloud technologies, CI/CD automation, and Kubernetes.
+
 <img src="https://github.com/malathi-shetty/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg" alt="CI/CD Status"/>
 
 </div>
@@ -10,7 +16,9 @@
 
 ## 👩‍💻 About Me
 
-Senior QA Engineer with **13+ years of experience in Manual & Automation Testing**, currently transitioning into **DevOps & Cloud Engineering**.
+Senior QA Engineer with 13+ years of experience in Manual and Automation Testing, currently building expertise in DevOps, Cloud, CI/CD, and Infrastructure Automation.
+
+Passionate about automating software delivery, containerization, Kubernetes orchestration, and cloud-native technologies.
 
 I enjoy building scalable systems, automating workflows, and improving software delivery pipelines end-to-end.
 
@@ -18,17 +26,41 @@ I enjoy building scalable systems, automating workflows, and improving software 
 
 ## 🚀 Current Focus
 
-  👉  [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026) 
- 
-
-- Hands-on DevOps projects using GitHub Actions, Docker & Kubernetes  
-- Strengthening AWS, Terraform & CI/CD pipelines  
+- Completing the 90 Days of DevOps Challenge
+- Building CI/CD pipelines using GitHub Actions
+- Deploying containerized applications with Docker & Kubernetes
+- Learning Infrastructure as Code using Terraform
+- Strengthening AWS Cloud fundamentals
+  
+- 📚 [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
+- 🐍 [Python for DevOps](https://github.com/malathi-shetty/python-for-devops)
 
 ---
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,git,github,python)
+![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,python)
+
+### Cloud
+AWS
+
+### Containers & Orchestration
+Docker • Kubernetes
+
+### CI/CD
+GitHub Actions • Jenkins
+
+### Infrastructure as Code
+Terraform
+
+### Programming & Scripting
+Python • Bash
+
+### Version Control
+Git • GitHub
+
+### Operating Systems
+Linux
 
 ---
 
@@ -59,40 +91,44 @@ I enjoy building scalable systems, automating workflows, and improving software 
 
 ## 📌 Featured Projects
 
-- 🧩 90 Days of DevOps  
-  https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026  
+- ⚡ [GitHub Actions Capstone](https://github.com/malathi-shetty/github-actions-capstone)
 
-- ☸️ Kubernetes with GitHub Actions  
-  https://github.com/malathi-shetty/github-actions-kubernetes-masterclass  
+- ☸️ [Kubernetes with GitHub Actions](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass)
 
-- ⚡ GitHub Actions Capstone Project  
-  https://github.com/malathi-shetty/github-actions-capstone  
+- 🧩 [90 Days of DevOps](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 
-- 🐚 Shell Scripting Practice  
-  https://github.com/malathi-shetty/shell-scripts-notes  
+- 🐚 [Shell Scripting Practice](https://github.com/malathi-shetty/shell-scripts-notes)
 
-- 🐍 Python Automation Scripts  
-  https://github.com/malathi-shetty/python-scripts  
+- 🐍 [Python for DevOps](https://github.com/malathi-shetty/python-for-devops)
 
-- 📘 DevOps Notes & Commands  
-  https://github.com/malathi-shetty/devops-git-practice/blob/master/git-commands.md  
+- 📘 [DevOps Notes & Commands](https://github.com/malathi-shetty/devops-notes)
 
 ---
 
 ## 🎯 Career Goal
 
-To transition into a **DevOps Engineer role** by combining strong QA expertise with modern cloud infrastructure, automation, and CI/CD practices.
+To leverage 13+ years of quality engineering experience alongside modern DevOps practices to build reliable, scalable, and automated software delivery platforms.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/malathi-shetty-52931969/  
-- Email: shettymalathi012@gmail.com | shettymalathi113@gmail.com  
-- Hashnode: https://hashnode.com/@malathis  
+
+- Email: shettymalathi012@gmail.com
+- Alternate Email: shettymalathi113@gmail.com
+- LinkedIn: [Malathi Shetty](https://www.linkedin.com/in/malathi-shetty-52931969/)
+- Hashnode: [@malathis](https://hashnode.com/@malathis)
 
 ---
 
 ## ✨ Motto
 
-> “From testing systems to building and automating them — continuous learning drives my journey.”
+> “From ensuring quality to engineering reliable delivery pipelines — learning, automation, and continuous improvement drive my journey.”
+
+---
+
+## 📊 GitHub Stats
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=malathi-shetty)
+
