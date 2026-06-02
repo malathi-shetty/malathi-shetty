@@ -132,3 +132,14 @@ To leverage 13+ years of quality engineering experience alongside modern DevOps 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=malathi-shetty)
 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malathi-shetty&theme=tokyo-night)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=malathi-shetty&color=blue)
+
+
+
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
