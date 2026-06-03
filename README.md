@@ -91,17 +91,17 @@ Linux
 
 ## 📌 Featured Projects
 
-- ⚡ [GitHub Actions Capstone](https://github.com/malathi-shetty/github-actions-capstone)
+- ⚡ [GitHub Actions Capstone](https://github.com/malathi-shetty/github-actions-capstone?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
-- ☸️ [Kubernetes with GitHub Actions](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass)
+- ☸️ [Kubernetes with GitHub Actions](https://github.com/malathi-shetty/github-actions-kubernetes-masterclass?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
-- 🧩 [90 Days of DevOps](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
+- 🧩 [90 Days of DevOps](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
 - 🐚 [Shell Scripting Practice](https://github.com/malathi-shetty/shell-scripts-notes)
 
-- 🐍 [Python for DevOps](https://github.com/malathi-shetty/python-for-devops)
+- 🐍 [Python for DevOps](https://github.com/malathi-shetty/python-for-devops?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
-- 📘 [DevOps Notes & Commands](https://github.com/malathi-shetty/devops-notes)
+- 📘 [DevOps Notes & Commands](https://github.com/malathi-shetty/devops-notes?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
 ---
 
@@ -138,10 +138,5 @@ To leverage 13+ years of quality engineering experience alongside modern DevOps 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malathi-shetty&theme=tokyo-night)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=malathi-shetty&color=blue)
-
-
-
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
