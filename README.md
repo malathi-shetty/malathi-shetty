@@ -34,6 +34,7 @@ I enjoy building scalable systems, automating workflows, and improving software 
   
 - 📚 [90 Days of DevOps Challenge](https://github.com/malathi-shetty/90DaysOfDevOps_TrainWithShubham/tree/master/2026)
 - 🐍 [Python for DevOps](https://github.com/malathi-shetty/python-for-devops)
+- 📘 [DevOps Notes & Commands](https://github.com/malathi-shetty/devops-notes?utm_source=linkedin&utm_medium=profile&utm_campaign=devops_branding)
 
 ---
 
