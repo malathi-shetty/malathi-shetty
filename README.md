@@ -133,7 +133,7 @@ To leverage 13+ years of quality engineering experience alongside modern DevOps 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malathi-shetty)
 
-
+![GitHub Streak](https://raw.githubusercontent.com/malathi-shetty/malathi-shetty/output/streak.svg)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malathi-shetty&theme=tokyo-night)
