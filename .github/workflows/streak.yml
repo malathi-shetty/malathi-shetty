@@ -1,0 +1,25 @@
+name: Generate GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@latest
+        with:
+          user: malathi-shetty
+          output: streak.svg
+
+      - name: Push generated file
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
